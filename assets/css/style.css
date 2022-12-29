@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(37, 37, 37);
+    color: aliceblue;
+}
+.profilepic{
+    border-radius: 10%;
+    margin-left:20px ;
+    max-width: 200px;
+}
+.layout{
+    background-color: rgb(95, 95, 95);
+    height: 50px;
+    width: 50000px;
+}
+.accordion-button{
+    background-color:  rgb(95, 95, 95);;
+    color: rgb(255, 255, 255);
+    border-radius: 10%;
+}
+.accordion-item{
+    background-color: transparent;
+    color: rgb(250, 250, 250);
+    border-radius: 10%;
+}
+.accordion-header{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border-radius: 10%;
+}
+.accordion-collapse{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    border-radius: 10%;
+}
+.devicon-github-plain{
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+}
+.fa-linkedin-in{
+    font-size: 200%;
+    color: rgb(255, 255, 255);
+}
