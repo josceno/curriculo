@@ -10,7 +10,7 @@ body{
 .layout{
     background-color: rgb(95, 95, 95);
     height: 50px;
-    width: 50000px;
+    width: 100%;
 }
 .accordion-button{
     background-color:  rgb(95, 95, 95);;
