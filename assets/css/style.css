@@ -20,6 +20,7 @@ body{
 .accordion-item{
     background-color: transparent;
     color: rgb(250, 250, 250);
+  
     border-radius: 10%;
 }
 .accordion-header{
@@ -51,7 +52,7 @@ body{
     text-align: center;
 }
 .contem{
-    height: 200px;
+    height: 100%;
     position: relative;
 }
 .nav-menu > a{
