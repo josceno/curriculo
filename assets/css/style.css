@@ -125,3 +125,9 @@ a.es:before{
     display: block;
 }
 
+table .line:hover{
+    background-color:rgb(107, 107, 107);
+}
+
+
+
