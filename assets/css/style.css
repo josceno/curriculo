@@ -124,10 +124,41 @@ a.es:before{
 .languages:hover ul{
     display: block;
 }
-
-table .line:hover{
-    background-color:rgb(107, 107, 107);
+.line{
+    background-color: rgb(39, 184, 39);
 }
+table .line:hover{
+    background-color:rgb(39, 184, 39);
+    color:black;
+    fill: rgb(10, 12, 12);
+}
+.mbody{
+    background-color: rgb(37, 37, 37);
+    color: aliceblue;
+}
+.modal-header{
+    background-color: rgb(37, 37, 37);
+    color: aliceblue;
+}
+.btn{
 
-
+    border: 1px;
+    border-color: aliceblue;
+    box-sizing: border-box;
+    border-bottom-color: aliceblue;
+    width: 65px;
+    color: aliceblue;
+    
+}
+.bi{
+    border: 1px;
+    border-color: aliceblue;
+    box-sizing: border-box;
+    border-bottom-color: aliceblue;
+    color: aliceblue;
+    fill: azure;
+}
+.bi:hover{
+    fill: black;
+}
 
