@@ -4,7 +4,10 @@ $(function(){
         $(".nav-item").children().eq(1).text("Experiences");
         $(".nav-item").children().eq(2).text("Skills");
         $(".nav-item").children().eq(3).text("Projects");
-        $(".language-selected").text("en-UK");
+
+        $(".accordion-header").children().eq(0).text("Whom am i and what a seek?");
+   
+        $(".language-selected").children().eq(0).text("en-UK");
         $(".language-selected").addClass(".change-uk");
 
 
@@ -19,9 +22,6 @@ $(function(){
         $(".language-selected").text("pt-BR");
         $(".language-selected").addClass(".change-br");
 
-
-    
-    
     })
 
 })

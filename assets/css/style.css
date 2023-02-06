@@ -161,4 +161,6 @@ table .line:hover{
 .bi:hover{
     fill: black;
 }
-
+.titleEmp{
+    margin-left: 70px;
+}
