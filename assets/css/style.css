@@ -57,16 +57,24 @@ body{
 }
 .nav-menu > a{
     padding: 10px;
+    text-align: left;
 }
 .languages{
     position: relative;
     width: 120px;
     margin-left: 40px;
+    text-align: end;
+    
+}
+.itemLen{
+    text-align: end;
 }
 .languages-selection{
     display: flex;
     width: 120px;
     margin-left: 40px;
+    text-align: end;
+   
 
 }
 .languages-selection:before{
@@ -78,6 +86,7 @@ body{
     background-image: url(https://www.countryflags.io/br/flat/64.png);
     background-repeat: no-repeat ;
     margin-right:  10px;
+    text-align: end;
 
 }
 .languages ul {
@@ -88,6 +97,7 @@ body{
     padding-top: 10px;
     box-shadow: 0px 1px 10px rgb(37, 37, 37);
     display:  none;
+    text-align: end;
 }
 
 .languages ul li{
@@ -97,9 +107,12 @@ body{
 .languages ul li a{
     display: block;
     padding-top: 5px 10px;
+    text-align: end;
 }
 .languages ul li:hover{
     background-color: rgb(76, 76, 78);
+    text-align: end;
+
 }
 
 .languages-selection:before{
@@ -110,6 +123,9 @@ body{
     background-size: contain;
     background-repeat: no-repeat ;
     margin-right:  10px;
+    text-align: end;
+
+    
 
 }
 a.br:before{
