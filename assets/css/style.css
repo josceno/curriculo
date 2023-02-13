@@ -175,7 +175,13 @@ table .line:hover{
 .titleEmp{
     margin-left: 70px;
 }
+
 .project0{
     margin-top: 13.396778916544655%;
-    margin-left: 12.977099236641221%;
+   /* margin-left: 12.977099236641221%;*/
+    
+}
+.pProject{
+    margin-top: 13.396778916544655%;
+    margin-left: 0%;
 }
