@@ -185,3 +185,14 @@ table .line:hover{
     margin-top: 13.396778916544655%;
     margin-left: 0%;
 }
+/*.projectBtn{
+    width: 74px;
+    margin-left: 20%;
+    position: absolute;
+}*/
+ .projectBtn{
+    display: inline-block;
+    width: 79px;
+    /*vertical-align: middle;*/
+   
+}
