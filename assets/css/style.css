@@ -190,9 +190,20 @@ table .line:hover{
     margin-left: 20%;
     position: absolute;
 }*/
- .projectBtn{
-    display: inline-block;
+ .projectBtn0{
+    display: flex;
     width: 79px;
-    /*vertical-align: middle;*/
+    margin-left: 550px;
+    margin-top: 55px;
+    justify-content: flex-end;
+    vertical-align: middle;
    
+}
+.h4{
+ margin-left: 10%;
+ font-size: medium;
+}
+.sectionJob{
+    margin-top: 2%;
+    margin-left: 80px;
 }

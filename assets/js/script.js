@@ -1,5 +1,6 @@
 $(function(){
     $(".en").click(function() {
+        console.log("teste")
         $(".nav-item").children().eq(0).text("About me");
         $(".nav-item").children().eq(1).text("Experiences");
         $(".nav-item").children().eq(2).text("Skills");
@@ -31,6 +32,7 @@ $(function(){
     
     
     })
+    console.log("teste")
     $(".br").click(function() {
         $(".nav-item").children().eq(0).text("Sobre mim");
         $(".nav-item").children().eq(1).text("Experiencia");
